@@ -24,6 +24,6 @@ made use of javascript for of loop, it helped when it came to making the border 
 
 ## Author
 
-- Website - [COMING SOON](https://www.your-site.com)
+- Website UNDER CONSTRUCTION
 - Frontend Mentor - [@kundais](https://www.frontendmentor.io/profile/kundais)
 - Twitter - [@kundaisitholee](https://twitter.com/kundaisitholee)
