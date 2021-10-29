@@ -1,0 +1,176 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,500&display=swap");
+:root {
+  /* COLORS */
+  --background: hsl(0, 100%, 74%);
+  --Green: hsl(154, 59%, 51%);
+  --Blue: hsl(248, 32%, 49%);
+  --DarkBlue: hsl(249, 10%, 26%);
+  --GrayishBlue: hsl(246, 25%, 77%);
+  --font: "poppins";
+  --fontsize: 16px;
+}
+
+footer {
+  color: white;
+}
+
+body {
+  box-sizing: border-box;
+  background-image: url("mobileBackground.png");
+  background-color: var(--background);
+}
+
+.mainContainer {
+  text-align: center;
+  padding: 1.3rem;
+}
+
+.text {
+  color: white;
+  font-family: var(--font);
+  margin-bottom: 50px;
+}
+h2 {
+  color: white;
+  font-weight: 900;
+}
+
+.freeTrial {
+  font-family: var(--font);
+  border: none;
+  border-radius: 10px;
+  background: var(--Blue);
+  padding: 2rem;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  font-size: 18px;
+  box-shadow: 0px 8px rgba(0, 0, 0, 0.2);
+}
+
+.freeTrial span {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.signupContainer {
+  position: relative;
+  margin-top: 20px;
+  border: none;
+  border-radius: 10px;
+  background: white;
+  padding: 1rem;
+  box-shadow: 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+.signupContainer input {
+  width: 80%;
+  padding: 0.8rem;
+  border: 1px solid var(--GrayishBlue);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.signupContainer button {
+  width: 90%;
+  padding: 1rem;
+  text-transform: uppercase;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  background-color: var(--Green);
+  box-shadow: 0px 2px rgba(0, 0, 0, 0.3);
+}
+
+.end {
+  font-family: var(--font);
+  font-size: 10px;
+  color: var(--GrayishBlue);
+  padding: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.end span {
+  color: var(--background);
+}
+
+/* RESPONSIVE design */
+@media screen and (min-width: 600px) {
+  .mainContainer {
+    padding: 3rem;
+    font-size: 20px;
+  }
+
+  .signupContainer button {
+    width: 85%;
+  }
+
+  .text h2 {
+    font-size: 40px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  body {
+    background-image: url(/bg-intro-desktop.png);
+  }
+  .mainContainer {
+    padding: 2rem;
+    display: flex;
+  }
+
+  .text {
+    text-align: left;
+    margin-top: 280px;
+    margin-right: 50px;
+  }
+
+  .text h1 {
+    font-size: 40px;
+    font-weight: 700;
+  }
+
+  .signupContainer {
+    width: 300px;
+    height: 70%;
+  }
+
+  .secondaryContainer {
+    margin-top: 150px;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .secondaryContainer {
+    margin-top: 120px;
+  }
+  .mainContainer {
+    padding-right: 6rem;
+    padding-left: 6rem;
+    margin-top: 2rem;
+  }
+
+  .freeTrial {
+    width: 89%;
+  }
+  .signupContainer {
+    width: 93%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  .signupContainer input {
+    margin-bottom: 15px;
+  }
+  .text {
+    margin-top: 200px;
+    font-size: 15px;
+  }
+  .text h2 {
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+}
