@@ -2,8 +2,10 @@
 first GitHub repository
 
 - Live Site URL: [https://sign-up-form-mvzwc9ygl-kundais.vercel.app]
+- Solution site URL : [ https://www.frontendmentor.io/solutions/responsive-sign-up-form-using-css-flex-box-8Nm_Jb0NP]
 
--i build a completely responsive sign-up-form
+-i build a completely responsive sign-up-form challenge was by front-end mentor
+
 ### Built with
 
 - Semantic HTML5 markup
