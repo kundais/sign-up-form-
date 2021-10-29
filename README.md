@@ -3,12 +3,14 @@ first GitHub repository
 
 - Live Site URL: [https://sign-up-form-mvzwc9ygl-kundais.vercel.app]
 
+-i build a completely responsive sign-up-form
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
 
 
 i really want to better myself at understanding css Flexbox. /n 
