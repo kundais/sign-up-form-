@@ -30,9 +30,11 @@ body {
   font-family: var(--font);
   margin-bottom: 50px;
 }
-h2 {
+
+.text h2 {
   color: white;
   font-weight: 900;
+  font-size: 35px;
 }
 
 .freeTrial {
