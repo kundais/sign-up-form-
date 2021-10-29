@@ -9,6 +9,7 @@ first GitHub repository
 
 
 i really want to better myself at understanding css Flexbox .
+made use of javascript for of loop, it helped when it came to making the border red when there is no value in the input.
 
 ### Useful resources
 
