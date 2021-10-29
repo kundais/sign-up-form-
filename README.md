@@ -8,7 +8,7 @@ first GitHub repository
 - Mobile-first workflow
 
 
-i really want to better myself at understanding css Flexbox .
+i really want to better myself at understanding css Flexbox. /n 
 made use of javascript for of loop, it helped when it came to making the border red when there is no value in the input.
 
 ### Useful resources
