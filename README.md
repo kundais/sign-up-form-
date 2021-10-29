@@ -12,7 +12,7 @@ i really want to better myself at understanding css Flexbox .
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) - This helped me for remembering how to use css box-shadow.
+- [w3schools](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) - This helped me for remembering how to use css box-shadow.
 
 ## Author
 
